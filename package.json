@@ -65,9 +65,11 @@
     "@babel/preset-typescript": "^7.16.7",
     "@babel/runtime": "^7.17.8",
     "@testing-library/react-hooks": "^7.0.2",
-    "ua-parser-js": "^1.0.2"
+    "ethers": "^5.6.2",
+    "ua-parser-js": "^1.0.2",
+    "web3": "^1.7.1"
   },
-  "description": "## Usage",
+  "description": "Simple web3 React hooks library",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nolannbiron/usehooks-web3.git"
